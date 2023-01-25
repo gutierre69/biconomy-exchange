@@ -1,0 +1,9 @@
+Biconomy Exchange Simple Class
+==============================
+
+This simple class, made in PHP, communicates with the API of the Biconomy exchange.
+
+The documentation distributed by the exchange is full of holes and lacks many details.
+    https://github.com/BiconomyOfficial/apidocs
+
+If you want to contribute to this repo, feel free.
